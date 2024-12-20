@@ -9,3 +9,5 @@
 /mods/
 /mods_disabled/
 /database.db
+/.gradle/
+/build/
